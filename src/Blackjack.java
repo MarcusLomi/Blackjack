@@ -16,8 +16,8 @@ public class Blackjack {
 		Player p6=new Player();		
 									
 		Player[] playerArr={p1,p2,p3,p4,p5,p6};
-		
-		
+		// testing git funcitonalities
+		// 4-19-2016
 	// Introduction and Player name entry;	
 		System.out.println("\t\tWelcome to Blackjack. \nStarting Balance is: $500.00");
 		System.out.println("\nHow many players are there? Max: 6");
